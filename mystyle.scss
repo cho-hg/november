@@ -1,6 +1,8 @@
 $main-color:#e30084;
+$sub-title: green;
 body {
     background-color: #f5f5f5;
     color: $main-color;
     font-family: sans-serif;
 }
+h2 {color: $sub-title;}
